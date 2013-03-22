@@ -1,0 +1,13 @@
+body {
+  padding: 30px;
+}
+
+aside {
+  float: left;
+  padding-top: 20px;
+  width: 250px;
+}
+
+section {
+  margin-left: 250px;
+}
